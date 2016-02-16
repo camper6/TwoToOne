@@ -1,0 +1,7 @@
+c:\users\sakinah\documents\visual studio 2013\Projects\TwoToOne\TwoToOne\bin\Debug\TwoToOne.exe
+c:\users\sakinah\documents\visual studio 2013\Projects\TwoToOne\TwoToOne\bin\Debug\TwoToOne.pdb
+c:\users\sakinah\documents\visual studio 2013\Projects\TwoToOne\TwoToOne\obj\Debug\TwoToOne.csprojResolveAssemblyReference.cache
+c:\users\sakinah\documents\visual studio 2013\Projects\TwoToOne\TwoToOne\obj\Debug\TwoToOne.Properties.Resources.resources
+c:\users\sakinah\documents\visual studio 2013\Projects\TwoToOne\TwoToOne\obj\Debug\TwoToOne.csproj.GenerateResource.Cache
+c:\users\sakinah\documents\visual studio 2013\Projects\TwoToOne\TwoToOne\obj\Debug\TwoToOne.exe
+c:\users\sakinah\documents\visual studio 2013\Projects\TwoToOne\TwoToOne\obj\Debug\TwoToOne.pdb
